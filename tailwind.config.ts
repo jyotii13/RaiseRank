@@ -11,6 +11,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "#162660",  // Main blue
+        accent: "#F1E4D1",   // Soft beige
+        lightblue: "#D0E6FD", // Light blue for highlights
       },
     },
   },
